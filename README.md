@@ -3,7 +3,8 @@ Customer Churn is a burning problem for telecom companies. Based on the past dat
 
 
                                                                                   Business problem: 
-   
+                                                                                  
+                                                                                
 •	Identification of customers who are likely to cancel services to plan a customer retention strategy targeting these customers
 •	Identification of variables/factors that are relevant for prediction of such customers and building a predictive model using these set of variables. 
                                                                                Exploratory data analysis:
